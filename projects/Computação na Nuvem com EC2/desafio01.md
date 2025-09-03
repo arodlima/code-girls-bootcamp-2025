@@ -9,7 +9,7 @@ Para esse desafio eu usei como base um outro desafio da AWS:
 
 ## Arquitetura da Solução
 
-![fluxograma]()
+![fluxograma](https://github.com/user-attachments/assets/6b2e1225-8939-4ed1-bdac-ff34ce1a588e)
 
 ## Esse fluxograma mostra:
 
