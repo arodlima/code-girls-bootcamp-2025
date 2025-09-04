@@ -92,17 +92,17 @@ A trilha conta com quase 40h de cursos atualizados que funcionam como um guia pa
     <tr>
       <td>Curso</td>
       <td>Criando sua Primeira Instância Amazon EC2</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
     <tr>
       <td>Curso</td>
       <td>Criando sua Primeiro Bucket no Amazon S3</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
     <tr>
       <td>Desafio de Projeto</td>
       <td>Criando sua Primeira Função com Amazon Lambda</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
     <tr>
       <td>Desafio de Projeto</td>
