@@ -169,17 +169,17 @@ A trilha conta com quase 40h de cursos atualizados que funcionam como um guia pa
     <tr>
       <td>Curso</td>
       <td>Entendendo o que é RDS</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
     <tr>
       <td>Curso</td>
       <td>Introdução ao Amazon DynamoDB</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
     <tr>
       <td>Curso</td>
       <td>Explorando Estratégias de Backup e Recuperação de Dados na AWS</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
   </table>
 </details>
