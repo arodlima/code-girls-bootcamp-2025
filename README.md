@@ -226,17 +226,17 @@ A trilha conta com quase 40h de cursos atualizados que funcionam como um guia pa
     <tr>
       <td>Curso</td>
       <td>Entendendo como Funciona o AWS Lambda</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
     <tr>
       <td>Curso</td>
       <td>Entendendo o que são Amazon ECS e EKS na Orquestração de Containers</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
     <tr>
       <td>Curso</td>
       <td>Entendendo como Funcionam o Amazon SNS e SQS na Comunicação Assíncrona</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
     <tr>
       <td>Desafio de Projeto</td>
