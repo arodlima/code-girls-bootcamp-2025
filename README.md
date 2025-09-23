@@ -257,12 +257,12 @@ A trilha conta com quase 40h de cursos atualizados que funcionam como um guia pa
     <tr>
       <td>Curso</td>
       <td>Entendendo o que é o AWS CloudWatch</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
     <tr>
       <td>Curso</td>
       <td>Fundamentos do AWS CloudTrail para Auditoria e Segurança na AWS</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
     <tr>
       <td>Desafio de Projeto</td>
@@ -272,12 +272,12 @@ A trilha conta com quase 40h de cursos atualizados que funcionam como um guia pa
     <tr>
       <td>Curso</td>
       <td>Gerenciando Usuários e Permissões na AWS com Identity and Acess Mansgement (IAM)</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
     <tr>
       <td>Curso</td>
       <td>	Entendendo e Gerenciando Policies e Roles na AWS</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
   </table>
 </details>
