@@ -241,7 +241,7 @@ A trilha conta com quase 40h de cursos atualizados que funcionam como um guia pa
     <tr>
       <td>Desafio de Projeto</td>
       <td>Explorando Workflowas Automatizados com AWS Step Functions</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
   </table>
 </details>
@@ -267,7 +267,7 @@ A trilha conta com quase 40h de cursos atualizados que funcionam como um guia pa
     <tr>
       <td>Desafio de Projeto</td>
       <td>Implementando sua Primeira Stack com AWS CloudFormation</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
     <tr>
       <td>Curso</td>
@@ -324,7 +324,7 @@ A trilha conta com quase 40h de cursos atualizados que funcionam como um guia pa
     <tr>
       <td>Desafio de Projeto</td>
       <td>Implementando Infraestrutura Automatizada com AWS CloudFormation</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
     <tr>
       <td>Curso</td>
@@ -350,7 +350,7 @@ A trilha conta com quase 40h de cursos atualizados que funcionam como um guia pa
     <tr>
       <td>Desafio de Projeto</td>
       <td>Executando Tarefas Automatizadas com Lambda Function e S3</td>
-      <td><img src="https://img.shields.io/badge/PARA%20FAZER-9999A1?style=for-the-badge"/></td>
+      <td><img src="https://img.shields.io/badge/CONCLUIDO-44CC11?style=for-the-badge"/></td>
     </tr>
     <tr>
       <td>Curso</td>
